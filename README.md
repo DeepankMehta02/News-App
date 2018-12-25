@@ -1,5 +1,5 @@
 # News-App
-This is the News App project of Android Basics Nanodegree by Udacity
+This is the News App project.
 
 ## Features Used
 •	ViewPager.
@@ -33,6 +33,8 @@ This is the News App project of Android Basics Nanodegree by Udacity
 •	You can get your own API_KEY from NY Times developers page.
 
 ## PROJECT LICENSE
+
+This project was submitted by Deepank Mehta.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
